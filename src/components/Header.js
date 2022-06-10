@@ -90,8 +90,8 @@ const openMenu = async () => {
                 <div className='links-section-header'>
                     <div className='icon-links-header'>
                         <img alt='opensea' src={opensea}/>
-                        <img alt='twitter' src={twitter}/>
-                        <img alt='instagram' src={instagram}/>
+                        <img onClick={() => window.open('https://twitter.com/HippiePigeons', '_blank')} alt='twitter' src={twitter}/>
+                        <img onClick={() => window.open('http://instagram.com/hippiepigeons/', '_blank')} alt='instagram' src={instagram}/>
                         <img alt='discord' src={discord}/>
                     </div>
                     <div className='header-open-menu' onClick={openMenu}>
@@ -141,8 +141,8 @@ const openMenu = async () => {
                 <div className='menu-content-socials'>
                     <div className='socials-block'>
                         <img src={opensea}/>
-                        <img src={twitter}/>
-                        <img src={instagram}/>
+                        <img onClick={() => window.open('https://twitter.com/HippiePigeons', '_blank')} src={twitter}/>
+                        <img onClick={() => window.open('http://instagram.com/hippiepigeons/', '_blank')} src={instagram}/>
                         <img src={discord}/>
                     </div>
                 </div>

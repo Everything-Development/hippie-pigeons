@@ -14,7 +14,7 @@ let roadmap_arr = [
         'icon': 'circle',
         'type': 'right',
         'title': 'Mint',
-        'text': 'Amount: A collection of 7,777<br/>Hippie Pigeon NFTs<br/>To reward members for helping the project grow and prosper our community, the whitelist mint price will be lower than the public mint price.'
+        'text': 'Amount: A collection of 5,555<br/>Hippie Pigeon NFTs<br/>To reward members for helping the project grow and prosper our community, the whitelist mint price will be lower than the public mint price.'
     },
     {
         'icon': 'flower',
