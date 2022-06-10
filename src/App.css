@@ -97,6 +97,7 @@ margin-top:10px;
 .icon-links-header img{
   margin-top: 30px;
   height: 20px;
+  cursor: pointer;
 }
 
 .header-open-menu{
