@@ -3,20 +3,22 @@ import { motion } from "framer-motion";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick"
-import nft_1 from '../assets/1_nft.jpg'
+import nft_1 from '../assets/12_nft.JPG'
 import nft_2 from '../assets/2_nft.JPG'
-import nft_3 from '../assets/3_nft.JPG'
-import nft_4 from '../assets/4_nft.JPG'
+import nft_3 from '../assets/7_nft.JPG'
+import nft_4 from '../assets/16_nft.png'
 import nft_5 from '../assets/5_nft.JPG'
 import nft_6 from '../assets/6_nft.JPG'
-import nft_7 from '../assets/7_nft.JPG'
+import nft_7 from '../assets/3_nft.JPG'
 import nft_8 from '../assets/8_nft.JPG'
 import nft_9 from '../assets/9_nft.JPG'
-import nft_10 from '../assets/10_nft.JPG'
+import nft_10 from '../assets/15_nft.JPG'
 import nft_11 from '../assets/11_nft.JPG'
-import nft_12 from '../assets/12_nft.JPG'
+import nft_12 from '../assets/1_nft.jpg'
 import nft_14 from '../assets/14_nft.JPG'
-import nft_15 from '../assets/15_nft.JPG'
+import nft_15 from '../assets/10_nft.JPG'
+import nft_16 from '../assets/16_nft.png'
+
 
 
 
@@ -153,10 +155,6 @@ const TheCollection = () => {
     {
       'id': 12,
       'image': nft_12,
-    },
-    {
-      'id': 13,
-      'image': nft_6,
     },
     {
       'id': 14,

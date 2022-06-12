@@ -956,12 +956,42 @@ footer {
 
 
 
+.write-us-section{
+  width: 100vw;
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Righteous;
+  font-size: 35px;
+}
+
+
+.write-us-section img{
+  height: 400px;
+  width: 690px;
+}
 
 
 
 
 
 
+@media (max-width: 600px){
+  .write-us-section{
+    font-family: Righteous;
+    font-size: 35px;
+    height: 60vh;
+  }
+  .write-us-section img{
+    width: 292px;
+    height: 164px;
+    object-fit: cover;
+  }
+  
+}
 
 
 

@@ -12,6 +12,8 @@ import Purpose from './components/Purpose'
 import Guaranteed from './components/Guaranteed';
 import Team from './components/Team'
 import Footer from './components/Footer';
+import WriteUs from './components/WriteUs';
+
 import { Element, animateScroll as scroll } from 'react-scroll'
 import RoadMap from './components/RoadMap';
 
@@ -57,6 +59,7 @@ useEffect(() => {
       <RoadMap/>
       <Element name="teamElement"></Element>
       <Team/>
+      <WriteUs/>
       <Footer/>
       
       
