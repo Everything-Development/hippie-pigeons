@@ -1009,3 +1009,18 @@ footer {
 
 
 
+
+
+
+.evdev-section {
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+  color: black;
+  font-family: Righteous;
+  text-decoration: none;
+}
+.evdev-section img{
+  margin-top:10px;
+  height: 30px;
+}
